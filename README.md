@@ -1,1 +1,1 @@
-#thrifttools-example
+thrifttools-example
